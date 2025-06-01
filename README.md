@@ -7,11 +7,12 @@ AAI510 Group 1 Final Project
 This project is a part of the AAI-510 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
 -- Project Status: [Planned, Active, On-hold, Completed]
-Completed
+In Progress
 
 ### Project Intro/Objective
 
-Input text here...
+Identifying which Telecommunication company customers are likely to leave so that the customer retention team can intervene and retain them.
+
 
 Partner(s)/Contributor(s)  
 Jasper Dolar (jdolar@sandiego.edu)
