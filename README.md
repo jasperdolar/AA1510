@@ -20,7 +20,7 @@ Devin Eror (deror@sandiego.edu)
 Carrie Little (clittle@sandiego.edu)
 
 ### Github Repository: 
-●	https://github.com/littlecl42/AAI_510_04_Group1_Project
+●	(https://github.com/jasperdolar/AA1510)
 
 ### Methods Used
 •	Machine Learning
