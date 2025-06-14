@@ -22,6 +22,7 @@ Carrie Little (clittle@sandiego.edu)
 ### Github Repository: 
 ●	(https://github.com/jasperdolar/AA1510)
 
+
 ### Methods Used
 •	Machine Learning
 •	Data Visualization
