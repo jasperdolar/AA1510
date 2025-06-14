@@ -2,7 +2,7 @@
 
 AAI510 Group 1 Final Project
 
-## PROJECT NAME
+## OmniComm Predictive Analytics for Customer Churn
 
 This project is a part of the AAI-510 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 
@@ -11,7 +11,7 @@ In Progress
 
 ### Project Intro/Objective
 
-Identifying which Telecommunication company customers are likely to leave so that the customer retention team can intervene and retain them.
+Identifying which telecommunication company customers are likely to leave so that the customer retention team can intervene and retain them.
 
 
 Partner(s)/Contributor(s)  
@@ -23,20 +23,17 @@ Carrie Little (clittle@sandiego.edu)
 ●	https://github.com/littlecl42/AAI_510_04_Group1_Project
 
 ### Methods Used
-A few examples are:
-•	Inferential Statistics
 •	Machine Learning
-•	Ethics for AI
 •	Data Visualization
-•	IoT
-
-
-### Technologies
-A few examples are:
 •	Python
+•	Logistic Regression 
+•	Random Forest 
+•	XGBoost 
+•	SVM
 
 ### Project Description
-Discuss the details of project overview. Description your selected dataset, such as data source, number of variables, size of dataset, etc. Include data dictionary, if available.  Provide questions and hypothesis that you are exploring. What specific data analysis, visualization, and modeling work are you using to solve the problem? What roadblocks and challenges are you facing? etc. 
+The IBM Telco Customer Churn dataset, obtained from Kaggle, contains data on 7,043 fictitious telecommunications customers and 21 features, in addition to the binary target variable “Churn” indicating whether a customer left within the past month (“Yes” or “No”). Each row represents a single customer and includes information about the services they use (phone service, multiple lines, internet service, online security, online backup, device protection, tech support, and streaming TV and movies); account details (tenure, contract type, payment method, paperless billing status, monthly charges, and total charges); and demographic attributes (gender, age range, and whether they have a partner or dependents). These factors can be used to predict which customers are likely to churn.
 
 ### Primary Dataset Source: 
-Input Dataset link,  Features, and Descriptions here
+Telco Customer Churn
+(https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
